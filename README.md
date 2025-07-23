@@ -1,4 +1,4 @@
-#Mental-Health-Detection-using-Text-Audio
+# Mental-Health-Detection-using-Text-Audio
 
 **Project Title:** Mental Health Detection
 
